@@ -1,0 +1,4 @@
+#Thu May 31 19:10:50 CST 2018
+base.0=/Users/finup/Documents/android_project/viewmodel/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,161 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/finup/Documents/android_project/viewmodel/app/src/main/AndroidManifest.xml:18:1-41:12
+INJECTED from /Users/finup/Documents/android_project/viewmodel/app/src/main/AndroidManifest.xml:18:1-41:12
+INJECTED from /Users/finup/Documents/android_project/viewmodel/app/src/main/AndroidManifest.xml:18:1-41:12
+INJECTED from /Users/finup/Documents/android_project/viewmodel/app/src/main/AndroidManifest.xml:18:1-41:12
+MERGED from [com.android.databinding:adapters:3.1.2] /Users/finup/.gradle/caches/transforms-1/files-1.1/adapters-3.1.2.aar/a27844a0350b1d2d93f06c155c2e1aaa/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.databinding:library:3.1.2] /Users/finup/.gradle/caches/transforms-1/files-1.1/library-3.1.2.aar/3fe5423b3255c5d97eff446aebfcc12c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design:27.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/d21e4cff8af49c91442da9395243bbde/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/63366090aee4671679db726acc1043d4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/b695b762a1022c56b18067ce6a82f06c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/5af082ebc3f6922dd1980d221fb2687b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/0ac29fd9096915c225a173cacf3ab7b3/AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/257ee918cb234cdc03764d3e91264a58/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/7e5fd457f30bf20342759c6d52aec3fe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/2bad5c362730daa200e0a6f383f653d7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/fcd1e3dfc20d672e1d9f81a9061f8a15/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/82719f9907c5064a99ce46780ecd4baf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/929acb2f9fa009c39c07260afb335c9a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/b76b3f4025fc85f3b769adb89d6e8056/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence.room:runtime:1.1.0] /Users/finup/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9e5883b320e95ced3a05a87ebb532433/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/b1863085a6732620b49d84571ee4c5c4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/0fea09d270f88c6aa1ebf7b4893a9edf/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/803aa79cfefa5e2a81c6c86606abf4cf/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/f63bb7668de9e986bbdd161d9768be7d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/0c93c5cd9b3d9daa0caa40a7f5aa5d3e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6067c4c229b575f5088f915bc5872f86/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.1.0] /Users/finup/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.0.aar/da225fa4d960e541e59ce3eb8d8b9e4a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db:1.1.0] /Users/finup/.gradle/caches/transforms-1/files-1.1/db-1.1.0.aar/3fdadc4bf179793664990701ae7d1bcb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/2b6150b0f6d087c468058be5bb6f8b33/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/finup/Documents/android_project/viewmodel/app/src/main/AndroidManifest.xml:18:1-41:12
+INJECTED from /Users/finup/Documents/android_project/viewmodel/app/src/main/AndroidManifest.xml:18:1-41:12
+INJECTED from /Users/finup/Documents/android_project/viewmodel/app/src/main/AndroidManifest.xml:18:1-41:12
+	package
+		ADDED from /Users/finup/Documents/android_project/viewmodel/app/src/main/AndroidManifest.xml:19:11-52
+		INJECTED from /Users/finup/Documents/android_project/viewmodel/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/finup/Documents/android_project/viewmodel/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/finup/Documents/android_project/viewmodel/app/src/main/AndroidManifest.xml
+		ADDED from /Users/finup/Documents/android_project/viewmodel/app/src/main/AndroidManifest.xml:18:1-41:12
+		INJECTED from /Users/finup/Documents/android_project/viewmodel/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/finup/Documents/android_project/viewmodel/app/src/main/AndroidManifest.xml
+		ADDED from /Users/finup/Documents/android_project/viewmodel/app/src/main/AndroidManifest.xml:18:1-41:12
+		INJECTED from /Users/finup/Documents/android_project/viewmodel/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/finup/Documents/android_project/viewmodel/app/src/main/AndroidManifest.xml:18:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/finup/Documents/android_project/viewmodel/app/src/main/AndroidManifest.xml:21:5-78
+	android:name
+		ADDED from /Users/finup/Documents/android_project/viewmodel/app/src/main/AndroidManifest.xml:21:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/finup/Documents/android_project/viewmodel/app/src/main/AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from /Users/finup/Documents/android_project/viewmodel/app/src/main/AndroidManifest.xml:22:22-78
+uses-feature#android.hardware.location.gps
+ADDED from /Users/finup/Documents/android_project/viewmodel/app/src/main/AndroidManifest.xml:24:5-65
+	android:name
+		ADDED from /Users/finup/Documents/android_project/viewmodel/app/src/main/AndroidManifest.xml:24:19-63
+application
+ADDED from /Users/finup/Documents/android_project/viewmodel/app/src/main/AndroidManifest.xml:26:5-39:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/0ac29fd9096915c225a173cacf3ab7b3/AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/0ac29fd9096915c225a173cacf3ab7b3/AndroidManifest.xml:22:5-28:19
+	android:supportsRtl
+		ADDED from /Users/finup/Documents/android_project/viewmodel/app/src/main/AndroidManifest.xml:31:9-35
+	android:label
+		ADDED from /Users/finup/Documents/android_project/viewmodel/app/src/main/AndroidManifest.xml:30:9-41
+	android:icon
+		ADDED from /Users/finup/Documents/android_project/viewmodel/app/src/main/AndroidManifest.xml:29:9-43
+	android:allowBackup
+		ADDED from /Users/finup/Documents/android_project/viewmodel/app/src/main/AndroidManifest.xml:28:9-36
+	android:theme
+		ADDED from /Users/finup/Documents/android_project/viewmodel/app/src/main/AndroidManifest.xml:32:9-40
+	android:name
+		ADDED from /Users/finup/Documents/android_project/viewmodel/app/src/main/AndroidManifest.xml:27:9-33
+activity#com.example.android.persistence.ui.MainActivity
+ADDED from /Users/finup/Documents/android_project/viewmodel/app/src/main/AndroidManifest.xml:33:9-38:20
+	android:name
+		ADDED from /Users/finup/Documents/android_project/viewmodel/app/src/main/AndroidManifest.xml:33:19-81
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/finup/Documents/android_project/viewmodel/app/src/main/AndroidManifest.xml:34:13-37:29
+action#android.intent.action.MAIN
+ADDED from /Users/finup/Documents/android_project/viewmodel/app/src/main/AndroidManifest.xml:35:17-68
+	android:name
+		ADDED from /Users/finup/Documents/android_project/viewmodel/app/src/main/AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/finup/Documents/android_project/viewmodel/app/src/main/AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from /Users/finup/Documents/android_project/viewmodel/app/src/main/AndroidManifest.xml:36:27-74
+uses-sdk
+INJECTED from /Users/finup/Documents/android_project/viewmodel/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/finup/Documents/android_project/viewmodel/app/src/main/AndroidManifest.xml
+INJECTED from /Users/finup/Documents/android_project/viewmodel/app/src/main/AndroidManifest.xml
+MERGED from [com.android.databinding:adapters:3.1.2] /Users/finup/.gradle/caches/transforms-1/files-1.1/adapters-3.1.2.aar/a27844a0350b1d2d93f06c155c2e1aaa/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:adapters:3.1.2] /Users/finup/.gradle/caches/transforms-1/files-1.1/adapters-3.1.2.aar/a27844a0350b1d2d93f06c155c2e1aaa/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.1.2] /Users/finup/.gradle/caches/transforms-1/files-1.1/library-3.1.2.aar/3fe5423b3255c5d97eff446aebfcc12c/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.1.2] /Users/finup/.gradle/caches/transforms-1/files-1.1/library-3.1.2.aar/3fe5423b3255c5d97eff446aebfcc12c/AndroidManifest.xml:22:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/d21e4cff8af49c91442da9395243bbde/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/d21e4cff8af49c91442da9395243bbde/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/63366090aee4671679db726acc1043d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/63366090aee4671679db726acc1043d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/b695b762a1022c56b18067ce6a82f06c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/b695b762a1022c56b18067ce6a82f06c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/5af082ebc3f6922dd1980d221fb2687b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/5af082ebc3f6922dd1980d221fb2687b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/0ac29fd9096915c225a173cacf3ab7b3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/0ac29fd9096915c225a173cacf3ab7b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/257ee918cb234cdc03764d3e91264a58/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/257ee918cb234cdc03764d3e91264a58/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/7e5fd457f30bf20342759c6d52aec3fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/7e5fd457f30bf20342759c6d52aec3fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/2bad5c362730daa200e0a6f383f653d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/2bad5c362730daa200e0a6f383f653d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/fcd1e3dfc20d672e1d9f81a9061f8a15/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/fcd1e3dfc20d672e1d9f81a9061f8a15/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/82719f9907c5064a99ce46780ecd4baf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/82719f9907c5064a99ce46780ecd4baf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/929acb2f9fa009c39c07260afb335c9a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/929acb2f9fa009c39c07260afb335c9a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/b76b3f4025fc85f3b769adb89d6e8056/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/b76b3f4025fc85f3b769adb89d6e8056/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.0] /Users/finup/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9e5883b320e95ced3a05a87ebb532433/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.0] /Users/finup/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9e5883b320e95ced3a05a87ebb532433/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/b1863085a6732620b49d84571ee4c5c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/b1863085a6732620b49d84571ee4c5c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/0fea09d270f88c6aa1ebf7b4893a9edf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/0fea09d270f88c6aa1ebf7b4893a9edf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/803aa79cfefa5e2a81c6c86606abf4cf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/803aa79cfefa5e2a81c6c86606abf4cf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/f63bb7668de9e986bbdd161d9768be7d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/f63bb7668de9e986bbdd161d9768be7d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/0c93c5cd9b3d9daa0caa40a7f5aa5d3e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/0c93c5cd9b3d9daa0caa40a7f5aa5d3e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6067c4c229b575f5088f915bc5872f86/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6067c4c229b575f5088f915bc5872f86/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.0] /Users/finup/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.0.aar/da225fa4d960e541e59ce3eb8d8b9e4a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.0] /Users/finup/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.0.aar/da225fa4d960e541e59ce3eb8d8b9e4a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.0] /Users/finup/.gradle/caches/transforms-1/files-1.1/db-1.1.0.aar/3fdadc4bf179793664990701ae7d1bcb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.0] /Users/finup/.gradle/caches/transforms-1/files-1.1/db-1.1.0.aar/3fdadc4bf179793664990701ae7d1bcb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/2b6150b0f6d087c468058be5bb6f8b33/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/2b6150b0f6d087c468058be5bb6f8b33/AndroidManifest.xml:20:5-44
+INJECTED from /Users/finup/Documents/android_project/viewmodel/app/src/main/AndroidManifest.xml
+INJECTED from /Users/finup/Documents/android_project/viewmodel/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/finup/Documents/android_project/viewmodel/app/src/main/AndroidManifest.xml
+		ADDED from /Users/finup/Documents/android_project/viewmodel/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/finup/Documents/android_project/viewmodel/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/finup/Documents/android_project/viewmodel/app/src/main/AndroidManifest.xml
+		ADDED from /Users/finup/Documents/android_project/viewmodel/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/finup/Documents/android_project/viewmodel/app/src/main/AndroidManifest.xml
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/0ac29fd9096915c225a173cacf3ab7b3/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/0ac29fd9096915c225a173cacf3ab7b3/AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/0ac29fd9096915c225a173cacf3ab7b3/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/0ac29fd9096915c225a173cacf3ab7b3/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/finup/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/0ac29fd9096915c225a173cacf3ab7b3/AndroidManifest.xml:24:13-83
