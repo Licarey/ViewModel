@@ -17,7 +17,6 @@
 package com.example.android.persistence.ui;
 
 import android.arch.lifecycle.Lifecycle;
-import android.arch.lifecycle.Observer;
 import android.arch.lifecycle.ViewModelProviders;
 import android.databinding.DataBindingUtil;
 import android.os.Bundle;
@@ -29,11 +28,8 @@ import android.view.ViewGroup;
 
 import com.example.android.persistence.R;
 import com.example.android.persistence.databinding.ListFragmentBinding;
-import com.example.android.persistence.db.entity.ProductEntity;
 import com.example.android.persistence.model.Product;
 import com.example.android.persistence.viewmodel.ProductListViewModel;
-
-import java.util.List;
 
 public class ProductListFragment extends Fragment {
 
@@ -66,19 +62,16 @@ public class ProductListFragment extends Fragment {
 
     private void subscribeUi(ProductListViewModel viewModel) {
         // Update the list when the data changes
-        viewModel.getProducts().observe(this, new Observer<List<ProductEntity>>() {
-            @Override
-            public void onChanged(@Nullable List<ProductEntity> myProducts) {
-                if (myProducts != null) {
-                    mBinding.setIsLoading(false);
-                    mProductAdapter.setProductList(myProducts);
-                } else {
-                    mBinding.setIsLoading(true);
-                }
-                // espresso does not know how to wait for data binding's loop so we execute changes
-                // sync.
-                mBinding.executePendingBindings();
+        viewModel.getProducts().observe(this, myProducts -> {
+            if (myProducts != null) {
+                mBinding.setIsLoading(false);
+                mProductAdapter.setProductList(myProducts);
+            } else {
+                mBinding.setIsLoading(true);
             }
+            // espresso does not know how to wait for data binding's loop so we execute changes
+            // sync.
+            mBinding.executePendingBindings();
         });
     }
 
